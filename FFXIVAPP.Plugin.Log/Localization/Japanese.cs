@@ -43,19 +43,19 @@ namespace FFXIVAPP.Plugin.Log.Localization {
             Dictionary.Add("log_TranslateTellHeader", "Tellを翻訳する");
             Dictionary.Add("log_TranslateYellHeader", "Yellを翻訳する");
             Dictionary.Add("log_EnableAllHeader", "すべて有効にする");
-            Dictionary.Add("log_TranslateAllianceHeader", "Allianceチャットを翻訳する");
-            Dictionary.Add("log_GitHubButtonText", "Open Project Source (GitHub)");
+            Dictionary.Add("log_TranslateAllianceHeader", "アライアンスチャットを翻訳する");
+            Dictionary.Add("log_GitHubButtonText", "プロジェクトのソースを開く（GitHub）");
 
-            Dictionary.Add("log_OpenNowButtonText", "Open Now");
-            Dictionary.Add("log_ResetPositionButtonText", "Reset Settings");
-            Dictionary.Add("log_TranslationTitleBar", "[TRANSLATION]");
-            Dictionary.Add("log_TranslationWidgetHeader", "Translation Widget");
-            Dictionary.Add("log_EnableClickThroughHeader", "Enable Click-Through On Widgets");
-            Dictionary.Add("log_WidgetOpacityHeader", "Widget Opacity");
-            Dictionary.Add("log_ShowTitlesOnWidgetsHeader", "Show Titles On Widgets");
-            Dictionary.Add("log_UIScaleHeader", "UI Scale");
-            Dictionary.Add("log_WidgetSettingsTabHeader", "Widget Settings");
-            Dictionary.Add("log_TranslationWidgetSettingsTabLabel", "SETTINGS:TRANSLATION");
+            Dictionary.Add("log_OpenNowButtonText", "直ちに開く");
+            Dictionary.Add("log_ResetPositionButtonText", "設定をリセット");
+            Dictionary.Add("log_TranslationTitleBar", "[翻訳]");
+            Dictionary.Add("log_TranslationWidgetHeader", "翻訳ウィジェット");
+            Dictionary.Add("log_EnableClickThroughHeader", "ウィジェットのクリックを透過する");
+            Dictionary.Add("log_WidgetOpacityHeader", "ウィジェットの透過度");
+            Dictionary.Add("log_ShowTitlesOnWidgetsHeader", "ウィジェットにタイトルを表示");
+            Dictionary.Add("log_UIScaleHeader", "UI拡大率");
+            Dictionary.Add("log_WidgetSettingsTabHeader", "ウィジェット設定");
+            Dictionary.Add("log_TranslationWidgetSettingsTabLabel", "設定：翻訳");
             return Dictionary;
         }
     }
